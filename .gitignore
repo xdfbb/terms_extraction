@@ -18,3 +18,4 @@ models/ner.model
 models/parser.model
 models/pisrl.model
 models/pos.model
+/models/
